@@ -6,7 +6,7 @@ const sendEmail=asyncHandler(async(data,req,res)=>{
         port: 587,
         secure: false, 
         auth: {
-          user: "bouachiriemna6@gmail.com",
+          user: "testtest@gmail.com",
           pass: "11448148",
         },
       });
